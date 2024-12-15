@@ -36,11 +36,11 @@ foreach ($categoriesData['tags'] as $tagName) {
 }
 
 
-// Create tags
-foreach ($categoriesData['tags'] as $tagName) {
-    Tag::create([
-        'name' => $tagName,
-        'slug' => Str::slug($tagName)
-    ]);
-}
+//// Create tags
+//foreach ($categoriesData['tags'] as $tagName) {
+//    Tag::create([
+//        'name' => $tagName,
+//        'slug' => Str::slug($tagName)
+//    ]);
+//}
 
