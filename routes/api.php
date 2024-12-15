@@ -8,9 +8,14 @@ Route::get('/user', function (Request $request) {
 })->middleware('auth:sanctum');
 
 
+
+// Posts
+
 Route::get('/post', function (Request $request)
 
 {
     return $request->post();
 
 });
+
+

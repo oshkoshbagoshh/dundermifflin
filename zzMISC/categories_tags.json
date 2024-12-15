@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "Services",
+      "children": [
+        "TFN Media Solutions",
+        "TFN Music Services"
+      ]
+    },
+    {
+      "name": "Expertise",
+      "children": [
+        "CTV Advertising",
+        "Data Integration",
+        "Music Licensing"
+      ]
+    },
+    {
+      "name": "Industry Insights",
+      "children": [
+        "TV Advertising",
+        "Streaming Trends"
+      ]
+    },
+    {
+      "name": "About Us",
+      "children": [
+        "Company Profile",
+        "Founder's Story"
+      ]
+    },
+    {
+      "name": "Case Studies"
+    }
+  ],
+  "tags": [
+    "CTV",
+    "OTT",
+    "Linear TV",
+    "Data Analytics",
+    "API Integration",
+    "Media Optimization",
+    "Video Advertising",
+    "Custom Music",
+    "Independent Artists",
+    "Brand Partnerships",
+    "Advertising Strategy",
+    "Data-Driven Approach",
+    "Creative Collaboration",
+    "TV Landscape",
+    "Streaming Transition",
+    "Media Insights",
+    "ROI Optimization",
+    "Technical Integration",
+    "Data Privacy",
+    "Music Licensing"
+  ]
+}
