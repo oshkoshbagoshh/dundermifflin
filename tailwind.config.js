@@ -16,7 +16,13 @@ export default {
         extend: {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                rubik: ['Rubik', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                'blue-violet': '#8A2BE2',
+                'sapphire': '#0F52BA',
+                'indigo': '#4B0082',
+            }
         },
     },
 
