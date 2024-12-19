@@ -11,6 +11,7 @@
 </template>
 
 <script>
+import { Inertia } from '@inertiajs/vue3'
 export default {
   props: {
     categories: Object,
